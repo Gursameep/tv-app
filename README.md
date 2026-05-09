@@ -1,5 +1,5 @@
 ## 🔗 Live Demo
-https://tv-7nci0fuun-gursameep-s-projects.vercel.app
+https://tv-app-gursameep.vercel.app/
 
 ## ✨ Features
 - 🔍 **Search TV Shows** — Debounced live search powered by the TVMaze API
