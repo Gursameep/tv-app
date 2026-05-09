@@ -10,11 +10,11 @@ https://tv-7nci0fuun-gursameep-s-projects.vercel.app
 - 📱 **Fully Responsive** — Works on mobile, tablet, and desktop
 
 ### Installation
-- # 1. Clone the repository
-- # 2. Install dependencies
-npm install
-- # 3. Start the development server
-npm run dev
+1. Clone the repository
+2. 2. Install dependencies
+# npm install
+3. Start the development server
+# npm run dev
 
 ## 📡 API Reference
 All data is sourced from the **[TVMaze REST API](https://www.tvmaze.com/api)** (free, no authentication required).
