@@ -9,12 +9,12 @@ https://tv-7nci0fuun-gursameep-s-projects.vercel.app
 - ⚡ **Loading Skeletons** — Smooth loading states while data is being fetched
 - 📱 **Fully Responsive** — Works on mobile, tablet, and desktop
 
-### Installation
+## Installation
 1. Clone the repository
-2. 2. Install dependencies
-# npm install
+2. Install dependencies
+## npm install
 3. Start the development server
-# npm run dev
+## npm run dev
 
 ## 📡 API Reference
 All data is sourced from the **[TVMaze REST API](https://www.tvmaze.com/api)** (free, no authentication required).
